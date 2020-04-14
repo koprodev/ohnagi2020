@@ -1,0 +1,28 @@
+{
+	"name": "ohnagi",
+	"displayName": "Ohnagi 2020",
+	"description": "ohnagi's theme",
+	"icon": "images/ohnagi2020.jpg",
+	"version": "0.1.3",
+	"publisher": "ohnagi",
+	"engines": {
+		"vscode": "^1.44.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "OhNaGi 2020",
+				"uiTheme": "vs-dark",
+				"path": "./themes/OhNaGi-2020-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "4c09f869-cef5-43e5-b285-95e292dd3632",
+		"publisherDisplayName": "ohnagi",
+		"publisherId": "928d1a10-4250-4e25-97ea-453eab686da3"
+	}
+}
